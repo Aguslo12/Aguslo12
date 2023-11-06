@@ -20,4 +20,4 @@ Tengo conocimientos acerca de diseño de interfaces con tecnoloías React y Next
 
 ### Mis redes sociales
 
-
+[<img src='https://github.com/Aguslo12/Aguslo12/raw/master/assets/X.jpg' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/agust%C3%ADn-lobos-gonz%C3%A1lez-25b9a924a/)]
