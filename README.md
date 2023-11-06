@@ -20,4 +20,17 @@ Tengo conocimientos acerca de diseño de interfaces con tecnoloías React y Next
 
 ### Mis redes sociales
 
-[<img src='https://github.com/Aguslo12/Aguslo12/raw/master/assets/X.jpg' alt='LinkedIn' width='24' style='width:24px; margin-right: 10px;'/>](https://www.linkedin.com/in/agust%C3%ADn-lobos-gonz%C3%A1lez-25b9a924a/)]
+[<img src='assets/X.jpg' alt='X' width='24' style='width:40px; margin-right: 20px;'/>](https://twitter.com/Agustin_ls12)
+[<img src='assets/instagram.png' alt='Instagram' width='24' style='width:30px; margin-right: 20px;'/>](https://www.instagram.com/agus_loboss/?hl=es-la)
+[<img src='assets/linkedin.png' alt='LinkedIn' width='24' style='width:30px; margin-right: 10px;'/>](https://www.linkedin.com/in/agust%C3%ADn-lobos-gonz%C3%A1lez-25b9a924a/)
+[<img src='assets/pinterest.png' alt='X' width='24' style='width:30px; margin-right: 20px;'/>](https://ar.pinterest.com/Aguslo12/)
+
+---
+### 🛠 Frameworks y herramientas
+
+Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
+
+Git, Spring Boot, Java, Python, C#, React, Html 5, Css 3, JavaScript, Nextjs, MySQL.
+
+---
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Aguslo12&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Agustin Lobos')
