@@ -2,7 +2,7 @@
 ![Github Followers - Desarrollador de Software](https://img.shields.io/github/followers/Aguslo12?label=Seguime%20en%20GitHub&style=for-the-badge)
 ![Twitter follow](https://img.shields.io/twitter/follow/Agustin_ls12?label=Seguime%20en%20Twitter&style=for-the-badge
 )
-## Hola, bienvenido a mi perfil profesional
+## Hola, bienvenido a mi perfil de Github
 
 Soy un estudiante en tenicatura en programación con el objetivo de llegar a ser un programador full stack. 
 
