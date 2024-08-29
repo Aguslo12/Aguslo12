@@ -11,7 +11,7 @@ Soy un estudiante en tenicatura en programación con el objetivo de llegar a ser
 Tengo conocimientos acerca de diseño de interfaces con tecnoloías React y Next.js 14.
 
 ### Me dedico a estudiar y probar nuevas tecnologías
-- 🧑🏻‍🎓 Actualmente estudio en [UTN (Universidad Tecnológica Nacional)](https://utn.edu.ar/es/)
+- 🧑🏻‍🎓 Técnico Universitario en Programación. Recibido en [UTN (Universidad Tecnológica Nacional)](https://utn.edu.ar/es/)
 - 💼 Mi perfil profesional lo puedes encontrar en [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-lobos-gonz%C3%A1lez-25b9a924a/)
 - 👨🏻‍🔬 Actualmente estoy aprendiendo sobre micro servicios y NodeJS.
 - 📊 Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.
