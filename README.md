@@ -1,6 +1,5 @@
 # 🤖
 ![Github Followers - Desarrollador de Software](https://img.shields.io/github/followers/Aguslo12?label=Seguime%20en%20GitHub&style=for-the-badge)
-![Twitter follow](https://img.shields.io/twitter/follow/Agustin_ls12?label=Seguime%20en%20Twitter&style=for-the-badge
 )
 ## Hola, bienvenido a mi perfil de Github
 
@@ -20,10 +19,7 @@ Tengo conocimientos acerca de diseño de interfaces con tecnoloías React y Next
 
 ### Mis redes sociales
 
-[<img src='assets/X.jpg' alt='X' width='24' style='width:40px; margin-right: 20px;'/>](https://twitter.com/Agustin_ls12)
-[<img src='assets/instagram.png' alt='Instagram' width='24' style='width:30px; margin-right: 20px;'/>](https://www.instagram.com/agus_loboss/?hl=es-la)
 [<img src='assets/linkedin.png' alt='LinkedIn' width='24' style='width:30px; margin-right: 10px;'/>](https://www.linkedin.com/in/agust%C3%ADn-lobos-gonz%C3%A1lez-25b9a924a/)
-[<img src='assets/pinterest.png' alt='X' width='24' style='width:30px; margin-right: 20px;'/>](https://ar.pinterest.com/Aguslo12/)
 
 ---
 ### 🛠 Frameworks y herramientas
