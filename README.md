@@ -3,9 +3,7 @@
 
 ## Hola, bienvenido a mi perfil de Github
 
-Software Developer
-
-Técnico universitario en programación 📖
+### Software Developer
 
 > Soy una persona que se apasiona por aprender más sobre programación, tecnología y ciencias con muchas ganas de trabajar en equipo.
 
