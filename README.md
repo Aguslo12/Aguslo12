@@ -3,7 +3,9 @@
 
 ## Hola, bienvenido a mi perfil de Github
 
-Soy un estudiante en tenicatura en programación con el objetivo de llegar a ser un programador full stack. 
+Software Developer
+
+Técnico universitario en programación 📖
 
 > Soy una persona que se apasiona por aprender más sobre programación, tecnología y ciencias con muchas ganas de trabajar en equipo.
 
